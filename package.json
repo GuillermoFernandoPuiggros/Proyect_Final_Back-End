@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Proyecto Final del curso de Backend con Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Guillermo Fernando Puiggros",
+  "license": "ISC",
+    "dependencies": {
+    "express": "^5.1.0"
+  }
+}
